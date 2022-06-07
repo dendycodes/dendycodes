@@ -4,10 +4,6 @@ Hi 👋 My name is Deniz
 Full Stack Web Developer
 ------------------------
 
-* 🌍  I'm based in  Bulgaria
-* 🖥️  See my portfolio at [denizmemduev.netlify.com](http://denizmemduev.netlify.com)
-* ✉️  You can contact me at [denizmemdeuv.dev@gmail.com](mailto:denizmemduev.dev@gmail.com)
-
 ### Skills
 
 <p align="left">
