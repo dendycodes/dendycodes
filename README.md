@@ -1,9 +1,6 @@
 Hi 👋 My name is Deniz
 ======================
 
-Full Stack Web Developer
-------------------------
-
 ### Skills
 
 <p align="left">
