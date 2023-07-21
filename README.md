@@ -24,6 +24,9 @@
 
 </p>
 
+<a href="https://www.buymeacoffee.com/dendycodes">
+    <img src="https://helloimjessa.files.wordpress.com/2021/06/bmc-button.png" alt="Buy me a coffee" style="width: 250px; height: auto;">
+</a>
 
 
 
