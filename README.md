@@ -1,6 +1,24 @@
 
 
+<div style="display: flex; align-items: center; justify-content: center; width:100% ">
+    <h2 style="margin: 0; display: flex; align-items: center;">Full Stack Developer Specializing in 
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" style="width: 26px; height: 26px; margin-left: 10px; margin-top: 15px" alt="Typescript" />
+        TypeScript
+    </h2>
+</div>
 
+
+- 🧠 **Coding Philosophy:** Hi, I'm Deniz, a Full Stack Developer who believes in the power of coding as a tool for creative problem-solving. For me, development is about building a seamless bridge between logic and innovation, where every line of TypeScript I write is a step towards technological artistry.
+
+- 🌱 **Currently Mastering TypeScript:** My current endeavor is mastering TypeScript. I'm dedicated to understanding its nuances and harnessing its power to create more efficient, robust applications.
+
+- ❤️ **Full Stack Commitment:** As a versatile Full Stack Developer, I contribute to various projects, constantly seeking to blend functionality with innovation.
+
+- 💬 **Let's Talk TypeScript:** If you're curious about TypeScript or full stack development, I'm here to chat. Ask me anything, and let's exchange knowledge.
+
+- ⚡ **Fun Fact:** "Why was the JavaScript developer sad? Because he didn't 'Node' how to 'Express' his feelings!" 😄👨‍💻
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
