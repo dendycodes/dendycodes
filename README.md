@@ -57,7 +57,6 @@
    </td>
    <td>
     <div align="center">
-      <h2><b>How to Reach Me</b></h2>
       <br>
       <br>
       <br>
