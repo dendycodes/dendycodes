@@ -41,6 +41,7 @@
  <img src="https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql"/>
  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>
  <img src="https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs"/>
+<br>
    <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
      <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
