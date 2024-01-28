@@ -59,9 +59,6 @@
     <div align="center">
       <h2><b>How to Reach Me</b></h2>
       <br>
-      <p>Please don't hesitate to contact me 
-        <br>if you need further information or help.
-      </p>
       <br>
       <br>
     </div>
