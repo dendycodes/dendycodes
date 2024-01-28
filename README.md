@@ -38,12 +38,14 @@
     <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
     <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>
     <img src="https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron"/>
+ <img src="https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql"/>
      <br>
      <img src="https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs"/>
      <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
      <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>
      <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
      <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
+ <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>
      <br>
      <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
      <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
