@@ -27,7 +27,6 @@
      <img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript"/>
      <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
      <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"/>
-     <img src="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextjs"/>
      <br>
      <img src="https://img.shields.io/badge/-Konva-05122A?style=flat&logo=konva"/>
      <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass"/>
@@ -35,6 +34,7 @@
      <img src="https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui"/>
      <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
      <br>
+  <img src="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextjs"/>
     <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
     <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>
     <img src="https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron"/>
