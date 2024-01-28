@@ -38,6 +38,8 @@
     <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
     <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>
     <img src="https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron"/>
+<br>
+
  <img src="https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql"/>
  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql"/>
  <img src="https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs"/>
