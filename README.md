@@ -32,7 +32,6 @@
      <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass"/>
      <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss"/>
      <img src="https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui"/>
-     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
      <br>
   <img src="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextjs"/>
     <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
@@ -45,6 +44,7 @@
  <img src="https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs"/>
    <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
 <br>
+  <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
      <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
    <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
      <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>
