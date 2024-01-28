@@ -1,50 +1,86 @@
+![](https://komarev.com/ghpvc/?username=dendycodes&color=0069b4)
+<table>
+  <tr>
+    <td>
+      <h2> 💻 &nbsp;About Me </h2>
+       <ul>
+<li>🎓 &nbsp; B.Sc in Computer Science at <a href="https://ue-varna.bg">University of Economics Varna</a></li>
+<li>🌍 &nbsp; Working remotely at <a href="https://github.com/ever-co">Ever Tech</a></li>
+<li>💻 &nbsp; Full Stack Software Engineer</li>
+<li>🚀 &nbsp; Interested in TypeScript</li>
+       </ul>
+       <p align="start">
+         <br>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dendycodes&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+        </p>
+    </td>
+    <td>
+     <p align="center">
+        <img height="360em" src="https://github.com/Taabannn/Taabannn/blob/main/images/java-python-developer.png"/>
+     </p>
+    </td>
+  </tr>
+  <tr>
+   <td>
+     <h2> 🛠 &nbsp;Tech Stack</h2>
+     <img src="https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript"/>
+     <img src="https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript"/>
+     <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"/>
+     <img src="https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular"/>
+     <img src="https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextjs"/>
+     <br>
+     <img src="https://img.shields.io/badge/-Konva-05122A?style=flat&logo=konva"/>
+     <img src="https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass"/>
+     <img src="https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss"/>
+     <img src="https://img.shields.io/badge/-MaterialUI-05122A?style=flat&logo=mui"/>
+     <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>
+     <br>
+    <img src="https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery"/>
+    <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express"/>
+    <img src="https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron"/>
+     <br>
+     <img src="https://img.shields.io/badge/-NestJs-05122A?style=flat&logo=nestjs"/>
+     <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb"/>
+     <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>
+     <img src="https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql"/>
+     <img src="https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite"/>
+     <br>
+     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"/>
+     <img src="https://img.shields.io/badge/-Github-05122A?style=flat&logo=github"/>
+     <img src="https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira"/>
+     <br>
+     <img src="https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify"/>
+     <img src="https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel"/>
+     <br>
+     <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=intellijidea"/>
+     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"/>
+   </td>
+   <td>
+    <div align="center">
+      <h2><b>How to Reach Me</b></h2>
+      <br>
+      <p>Please don't hesitate to contact me 
+        <br>if you need further information or help.
+      </p>
+      <br>
+      <a href="https://www.instagram.com/taabannn/" target="_blank">
+      <img align="center" alt="Taban Soleymani | Instagram" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/instagram-new.png" />
+      </a> &nbsp;&nbsp;
+      <a href="mailto:tabansly78@gmail.com" >
+      <img align="center" alt="Taban Soleymani | Gmail" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/gmail.png" />
+      </a> &nbsp;&nbsp;
+      <a href="https://join.skype.com/invite/oJPb3eoBcLa3" >
+      <img align="center" alt="Taban Soleymani | Skype" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/skype.png" />
+      </a> &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/TabanSoleymani/" >
+      <img align="center" alt="Taban Soleymani | LinkedIn" width="30em" src="https://img.icons8.com/ios-glyphs/50/000000/linkedin.png" />
+      </a> &nbsp;&nbsp;
+      <br>
+    </div>
+   </td>
+  </tr>
+</table>
 
-
-<div style="display: flex; align-items: center; justify-content: center; width:100% ">
-    <h2 style="margin: 0; display: flex; align-items: center;">Full Stack Developer Specializing in 
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" style="width: 26px; height: 26px; margin-left: 10px; margin-top: 15px" alt="Typescript" />
-        TypeScript
-    </h2>
-</div>
-
-
-- 🧠 **Coding Philosophy:** Hi, I'm Deniz, a Full Stack Developer who believes in the power of coding as a tool for creative problem-solving. For me, development is about building a seamless bridge between logic and innovation, where every line of TypeScript I write is a step towards technological artistry.
-
-- 🌱 **Currently Mastering TypeScript:** My current endeavor is mastering TypeScript. I'm dedicated to understanding its nuances and harnessing its power to create more efficient, robust applications.
-
-- ❤️ **Full Stack Commitment:** As a versatile Full Stack Developer, I contribute to various projects, constantly seeking to blend functionality with innovation.
-
-- 💬 **Let's Talk TypeScript:** If you're curious about TypeScript or full stack development, I'm here to chat. Ask me anything, and let's exchange knowledge.
-
-- ⚡ **Fun Fact:** "Why was the JavaScript developer sad? Because he didn't 'Node' how to 'Express' his feelings!" 😄👨‍💻
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
- <a href="https://konvajs.org/" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/e5539461134916a5775329fed8cb1c37032485d2b0cdc91dfba4e4c26c4fd5b3/68747470733a2f2f6b6f6e76616a732e6f72672f616e64726f69642d6368726f6d652d313932783139322e706e67" width="36" height="36" alt="KonvaJS" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
- <a href="https://nestjs.com" target="_blank" rel="noreferrer"><img src="https://nestjs.com/logo-small.ede75a6b.svg" width="36" height="36" alt="NestJs" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-
-
-
-
-
-
-</p>
 
 
 
