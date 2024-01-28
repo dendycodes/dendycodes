@@ -4,7 +4,7 @@
     <td>
       <h2> 💻 &nbsp;About Me </h2>
        <ul>
-<li>🎓 &nbsp; B.Sc in Computer Science at <a href="https://ue-varna.bg">University of Economics Varna</a></li>
+<li>🎓 &nbsp; B.Sc in Computer Science at <a href="https://ue-varna.bg">UE Varna</a></li>
 <li>🌍 &nbsp; Working remotely at <a href="https://github.com/ever-co">Ever Tech</a></li>
 <li>💻 &nbsp; Full Stack Software Engineer</li>
 <li>🚀 &nbsp; Interested in TypeScript</li>
