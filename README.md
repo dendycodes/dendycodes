@@ -30,4 +30,4 @@ Currently sharpening my offensive and defensive security skills to create more r
 
 ---
 
-💬 Let's connect: [LinkedIn](#) | [Twitter](#)
+💬 Let's connect: [LinkedIn](https://www.linkedin.com/in/deniz-memduev-4247281b5)
