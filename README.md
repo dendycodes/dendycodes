@@ -4,7 +4,7 @@
 
 ## About Me
 
-I build scalable systems, secure them, and break them — just to understand them better. From clean UIs to hardened APIs and self-hosted infrastructure.
+I build scalable systems, secure them, and break them — just to understand them better. From clean UIs to hardened APIs.
 
 ## What I Do
 
