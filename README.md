@@ -1,4 +1,4 @@
-# Hello, I'm Deniz 👋
+# Hello, I'm Deniz  👋
 
 > 🛠️ Full-stack developer with a passion for cybersecurity
 
