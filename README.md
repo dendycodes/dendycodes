@@ -11,7 +11,6 @@ I build scalable systems, secure them, and break them — just to understand the
 - 💻 Develop clean, responsive front-end interfaces
 - 🔧 Build robust, scalable back-end systems
 - 🔒 Implement security best practices across the stack
-- 🧪 Perform penetration testing and vulnerability assessments
 - 🔍 Bridge the gap between development and security
 
 ## Tech Stack
